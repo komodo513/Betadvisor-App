@@ -1,5 +1,6 @@
 # Betadvisor-App
 Betadvisor
+
 # Betadvisor – Top Mathematical Sports Predictions for Investment
 
 Welcome to **Betadvisor**, your AI-powered platform for data-driven football predictions and investment. Join our community of 40 exclusive members to access high-ROI betting insights.
@@ -25,6 +26,19 @@ Follow these steps to install the Betadvisor app on your Android device:
    - Sign up or log in to access predictions, ROI analytics, and more.
 
 **Note**: Ensure your device runs Android 5.0 (Lollipop) or higher. For security, only download the APK from our official GitHub link.
+
+## Predictive Models Utilized by Betadvisor
+
+Betadvisor leverages advanced machine learning models to deliver accurate football predictions, combining statistical rigor with real-time data analysis. The app employs the following models:
+
+- **XGBoost (eXtreme Gradient Boosting)**: A highly efficient and scalable gradient boosting algorithm that excels in handling structured data, optimizing prediction accuracy for match outcomes.
+- **Random Forest**: An ensemble learning method that uses multiple decision trees to improve robustness and reduce overfitting, ideal for analyzing complex football statistics.
+- **Convolutional Neural Networks (CNNs)**: Typically used for image and pattern recognition, CNNs are adapted here to process spatial and temporal patterns in historical match data.
+- **Support Vector Machines (SVM)**: A powerful classification model that identifies optimal boundaries between match outcomes, effective for smaller datasets.
+- **Logistic Regression**: A statistical model used for binary outcome predictions, providing interpretable probabilities for match results.
+- **Bayesian Networks**: Probabilistic models that capture dependencies between variables, enhancing predictions by incorporating uncertainty and prior knowledge.
+
+These models are fine-tuned to analyze vast datasets, including team performance, player stats, and historical trends, ensuring high-ROI betting insights for our users.
 
 ## Get Started
 - **Explore Predictions**: Filter by leagues, teams, or date ranges.
