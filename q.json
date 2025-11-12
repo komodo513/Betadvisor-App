@@ -1,854 +1,956 @@
 {
-  "wealth_quotes": [
+  "quotes": [
     {
-      "category": "Mindset & Psychology",
-      "quotes": [
-        {
-          "text": "Wealth is not about having a lot of money; it's about having a lot of options.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The richest people in the world look for and build networks; everyone else looks for work.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your income is directly related to your philosophy, not the economy.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Poor people have a lottery mentality. Wealthy people have an abundance mentality.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The single most powerful asset we all have is our mind. If it is trained well, it can create enormous wealth.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is the product of a man's capacity to think.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is a mindset. If you can change your mindset, you can change your wealth.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The most successful people in life are the ones who ask questions. They're always learning. They're always growing.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is not his that has it, but his that enjoys it.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The foundation of wealth is freedom. Freedom to choose how you spend your time.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Millionaires think about time and freedom. The middle class thinks about money and security.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your wealth is where your friends are.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The secret to wealth is simple: Find a way to do more for others than anyone else does. Become more valuable. Do more. Give more. Be more.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is not about working harder; it's about working smarter with systems and leverage.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The wealthy focus on net worth. The poor focus on their paycheck.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your mental energy is your most valuable asset. Protect it at all costs.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is created in the mind long before it appears in your bank account.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The difference between wealthy people and broke people is that wealthy people believe they create their lives. Broke people believe life happens to them.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Wealth Director"
     },
     {
-      "category": "Investing & Assets",
-      "quotes": [
-        {
-          "text": "The best investment you can make is in yourself. The more you learn, the more you earn.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Don't work for money; make money work for you.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Price is what you pay. Value is what you get.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The most important quality for an investor is temperament, not intellect.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth comes from owning assets, not from working for a salary.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Be fearful when others are greedy and greedy when others are fearful.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The best time to plant a tree was 20 years ago. The second best time is now. The same goes for investing.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Never depend on a single income. Make an investment to create a second source.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The rich invest in time. The poor invest in money.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "If you don't find a way to make money while you sleep, you will work until you die.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The goal of the successful investor is to have their assets produce more than their liabilities consume.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Diversification is protection against ignorance. It makes little sense if you know what you are doing.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The stock market is a device for transferring money from the impatient to the patient.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Risk comes from not knowing what you're doing.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The most dangerous thing in investing is to believe you know everything.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Buy when there's blood in the streets, even if the blood is your own.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The best investment strategy is to consistently invest over time, regardless of market conditions.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "Wealth is not about having a lot of money; it's about having a lot of options.",
+      "author": "Wealth Director"
     },
     {
-      "category": "Business & Entrepreneurship",
-      "quotes": [
-        {
-          "text": "The way to get started is to quit talking and begin doing.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Don't be afraid to give up the good to go for the great.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "If you are not embarrassed by the first version of your product, you've launched too late.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The critical ingredient is getting off your butt and doing something. It's as simple as that.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your most unhappy customers are your greatest source of learning.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The only place where success comes before work is in the dictionary.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Success is not in what you have, but who you have become.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The only limit to our realization of tomorrow will be our doubts of today.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Success usually comes to those who are too busy to be looking for it.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Don't be trapped by dogma – which is living with the results of other people's thinking.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The only way to do great work is to love what you do.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your time is limited, so don't waste it living someone else's life.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Innovation distinguishes between a leader and a follower.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The people who are crazy enough to think they can change the world are the ones who do.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Quality is more important than quantity. One home run is much better than two doubles.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "The richest people in the world look for and build networks; everyone else looks for work.",
+      "author": "Wealth Director"
     },
     {
-      "category": "Financial Discipline",
-      "quotes": [
-        {
-          "text": "The habit of saving is itself an education; it fosters every virtue, teaches self-denial, cultivates the sense of order, trains to forethought, and so broadens the mind.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Beware of little expenses; a small leak will sink a great ship.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth consists not in having great possessions, but in having few wants.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Do not save what is left after spending, but spend what is left after saving.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "A budget is telling your money where to go instead of wondering where it went.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The goal isn't more money. The goal is living life on your terms.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Financial freedom is available to those who learn about it and work for it.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Rich people have small TVs and big libraries. Poor people have big TVs and small libraries.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Empty pockets never held anyone back. Only empty heads and empty hearts can do that.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "It's not how much money you make, but how much money you keep, how hard it works for you, and how many generations you keep it for.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The amount of money you have has very little to do with what you earn. It has everything to do with how you spend.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is not about having a lot of possessions. It's about having a lot of possibilities.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The fastest way to double your money is to fold it in half and put it back in your pocket.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "A man who both spends and saves money is the happiest man, because he has both enjoyments.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The safest way to double your money is to fold it over and put it in your pocket.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Money is a terrible master but an excellent servant.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Formal education will make you a living; self-education will make you a fortune.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The more you learn, the more you earn.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Financial peace isn't the acquisition of stuff. It's learning to live on less than you make.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is the ability to fully experience life.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "Your income is directly related to your philosophy, not the economy.",
+      "author": "Wealth Director"
     },
     {
-      "category": "Time & Productivity",
-      "quotes": [
-        {
-          "text": "Time is more valuable than money. You can get more money, but you cannot get more time.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Don't be busy, be productive. There's a big difference.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The bad news is time flies. The good news is you're the pilot.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "You will never find time for anything. If you want time, you must make it.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The way we spend our time defines who we are.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Focus on being productive instead of busy.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Time management is life management.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The rich don't trade time for money. They trade value for money.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your most valuable asset is not your money, it's your time. How you spend it determines your wealth.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealthy people think in terms of leverage. They ask: How can I get 10x results with the same amount of time?",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The poor sell their time. The middle class sell their skills. The wealthy sell systems.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Don't count the hours. Make the hours count.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The successful person has the habit of doing the things failures don't like to do.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Efficiency is doing things right. Effectiveness is doing the right things.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Amateurs sit and wait for inspiration. The rest of us just get up and go to work.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The secret of getting ahead is getting started.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "Poor people have a lottery mentality. Wealthy people have an abundance mentality.",
+      "author": "Wealth Director"
     },
     {
-      "category": "Networking & Relationships",
-      "quotes": [
-        {
-          "text": "Your network is your net worth.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The richest people in the world look for and build networks; everyone else looks for work.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Surround yourself with people who are smarter than you, who challenge you, and who push you to be better.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your income will be the average of the five people you spend the most time with.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Build relationships before you need them.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The most successful people are those who are good at plan B.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Opportunities don't happen. You create them.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The way to achieve your own success is to be willing to help somebody else get it first.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The currency of real networking is not greed but generosity.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your reputation is more important than your paycheck.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The best relationships are mutual admiration societies.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Success is not what you have, but who you have in your life.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The most valuable gift you can give someone is your time. Because when you give your time, you're giving a portion of your life you'll never get back.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Great things in business are never done by one person. They're done by a team of people.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The strength of the team is each individual member. The strength of each member is the team.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Alone we can do so little; together we can do so much.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Talent wins games, but teamwork and intelligence win championships.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "If everyone is moving forward together, then success takes care of itself.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "None of us is as smart as all of us.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Teamwork makes the dream work.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "The single most powerful asset we all have is our mind. If it is trained well, it can create enormous wealth.",
+      "author": "Wealth Director"
     },
     {
-      "category": "Risk & Failure",
-      "quotes": [
-        {
-          "text": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Failure is simply the opportunity to begin again, this time more intelligently.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "I have not failed. I've just found 10,000 ways that won't work.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Success is stumbling from failure to failure with no loss of enthusiasm.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The only real mistake is the one from which we learn nothing.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "If you're not failing, you're not pushing your limits, and if you're not pushing your limits, you're not maximizing your potential.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The fear of loss is greater than the excitement of gain.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "In the middle of difficulty lies opportunity.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The entrepreneur is essentially a visualizer and actualizer. He can visualize something, and when he visualizes it he sees exactly how to make it happen.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The only limit to our realization of tomorrow will be our doubts of today.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "You miss 100% of the shots you don't take.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Whatever the mind can conceive and believe, it can achieve.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The way to get started is to quit talking and begin doing.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Don't be afraid to give up the good to go for the great.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "I find that the harder I work, the more luck I seem to have.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The only place where success comes before work is in the dictionary.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your time is limited, so don't waste it living someone else's life.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The people who are crazy enough to think they can change the world are the ones who do.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "Wealth is the product of a man's capacity to think.",
+      "author": "Wealth Director"
     },
     {
-      "category": "Learning & Growth",
-      "quotes": [
-        {
-          "text": "The more you learn, the more you earn.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Formal education will make you a living; self-education will make you a fortune.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The best investment you can make is in yourself.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Don't let your learning lead to knowledge. Let your learning lead to action.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Change is the end result of all true learning.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The beautiful thing about learning is that no one can take it away from you.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The expert in anything was once a beginner.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The only person who is educated is the one who has learned how to learn and change.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Education is the most powerful weapon which you can use to change the world.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The roots of education are bitter, but the fruit is sweet.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Develop a passion for learning. If you do, you will never cease to grow.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The mind is not a vessel to be filled, but a fire to be kindled.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The great aim of education is not knowledge but action.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Education costs money, but then so does ignorance.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The only thing that interferes with my learning is my education.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Learning is a treasure that will follow its owner everywhere.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.",
+      "author": "Wealth Director"
     },
     {
-      "category": "Wealth Building Principles",
-      "quotes": [
-        {
-          "text": "Wealth is not built overnight. It's built consistently over time with discipline and patience.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The secret to wealth is simple: Spend less than you earn and invest the difference.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is not about how much you make, but how much you keep and how hard it works for you.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The wealthy understand that money is a tool, not the destination.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "True wealth is being able to wake up every morning and say, 'I can do whatever I want today.'",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is created by solving problems at scale.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The middle class buys liabilities thinking they're assets. The wealthy buy assets that generate income.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is the transfer of money from the impatient to the patient.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The fastest way to become wealthy is to slowly build assets over time.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is not measured by the cars you drive or the houses you own. It's measured by the number of days you can sustain your lifestyle without working.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The wealthy focus on their net worth. The poor focus on their job title.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is created when you provide value to others without trading your time for money.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The rich don't work for money; they make money work for them through assets.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is not about having money. It's about having control over your time.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The wealthy think in terms of generations. The poor think in terms of paychecks.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is built one good decision at a time, compounded over decades.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The secret to building wealth is consistency over intensity.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Wealth is not an accident. It's the result of deliberate choices made consistently over time.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The wealthy understand that money is simply a scorecard for value created.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "True wealth is having the freedom to focus on what matters most to you.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "Wealth is a mindset. If you can change your mindset, you can change your wealth.",
+      "author": "Wealth Director"
     },
     {
-      "category": "Legacy & Impact",
-      "quotes": [
-        {
-          "text": "The greatest legacy one can pass on is not money or material things, but a legacy of character and faith.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "We make a living by what we get, but we make a life by what we give.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your legacy is every life you've touched.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The value of a man resides in what he gives and not in what he is capable of receiving.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "A good character is the best tombstone. Those who loved you will remember.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Carve your name on hearts, not tombstones. A legacy is etched into the minds of others.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "What you leave behind is not what is engraved in stone monuments, but what is woven into the lives of others.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The best way to find yourself is to lose yourself in the service of others.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "No one has ever become poor by giving.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "We rise by lifting others.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The meaning of life is to find your gift. The purpose of life is to give it away.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Service to others is the rent you pay for your room here on earth.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "A life isn't significant except for its impact on other lives.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The greatest use of life is to spend it for something that will outlast it.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Your legacy should be that you made it better than you found it.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "To have what we have never had, we must do what we have never done.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "The only thing you take with you when you're gone is what you leave behind.",
-          "author": "Wealth Director"
-        },
-        {
-          "text": "Build something that will last longer than you will.",
-          "author": "Wealth Director"
-        }
-      ]
+      "text": "The most successful people in life are the ones who ask questions. They're always learning. They're always growing.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not his that has it, but his that enjoys it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The foundation of wealth is freedom. Freedom to choose how you spend your time.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Millionaires think about time and freedom. The middle class thinks about money and security.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your wealth is where your friends are.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The secret to wealth is simple: Find a way to do more for others than anyone else does. Become more valuable. Do more. Give more. Be more.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not about working harder; it's about working smarter with systems and leverage.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The wealthy focus on net worth. The poor focus on their paycheck.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your mental energy is your most valuable asset. Protect it at all costs.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is created in the mind long before it appears in your bank account.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The difference between wealthy people and broke people is that wealthy people believe they create their lives. Broke people believe life happens to them.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The best investment you can make is in yourself. The more you learn, the more you earn.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Don't work for money; make money work for you.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Price is what you pay. Value is what you get.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The most important quality for an investor is temperament, not intellect.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth comes from owning assets, not from working for a salary.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Be fearful when others are greedy and greedy when others are fearful.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now. The same goes for investing.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Never depend on a single income. Make an investment to create a second source.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The rich invest in time. The poor invest in money.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "If you don't find a way to make money while you sleep, you will work until you die.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The goal of the successful investor is to have their assets produce more than their liabilities consume.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Diversification is protection against ignorance. It makes little sense if you know what you are doing.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The stock market is a device for transferring money from the impatient to the patient.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Risk comes from not knowing what you're doing.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The most dangerous thing in investing is to believe you know everything.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Buy when there's blood in the streets, even if the blood is your own.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The best investment strategy is to consistently invest over time, regardless of market conditions.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Don't be afraid to give up the good to go for the great.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "If you are not embarrassed by the first version of your product, you've launched too late.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The critical ingredient is getting off your butt and doing something. It's as simple as that.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your most unhappy customers are your greatest source of learning.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The only place where success comes before work is in the dictionary.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Success is not in what you have, but who you have become.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Don't be trapped by dogma – which is living with the results of other people's thinking.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Innovation distinguishes between a leader and a follower.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The people who are crazy enough to think they can change the world are the ones who do.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Quality is more important than quantity. One home run is much better than two doubles.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The habit of saving is itself an education; it fosters every virtue, teaches self-denial, cultivates the sense of order, trains to forethought, and so broadens the mind.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Beware of little expenses; a small leak will sink a great ship.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth consists not in having great possessions, but in having few wants.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Do not save what is left after spending, but spend what is left after saving.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "A budget is telling your money where to go instead of wondering where it went.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The goal isn't more money. The goal is living life on your terms.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Financial freedom is available to those who learn about it and work for it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Rich people have small TVs and big libraries. Poor people have big TVs and small libraries.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Empty pockets never held anyone back. Only empty heads and empty hearts can do that.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "It's not how much money you make, but how much money you keep, how hard it works for you, and how many generations you keep it for.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The amount of money you have has very little to do with what you earn. It has everything to do with how you spend.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not about having a lot of possessions. It's about having a lot of possibilities.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The fastest way to double your money is to fold it in half and put it back in your pocket.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "A man who both spends and saves money is the happiest man, because he has both enjoyments.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The safest way to double your money is to fold it over and put it in your pocket.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money is a terrible master but an excellent servant.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Formal education will make you a living; self-education will make you a fortune.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The more you learn, the more you earn.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Financial peace isn't the acquisition of stuff. It's learning to live on less than you make.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is the ability to fully experience life.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Time is more valuable than money. You can get more money, but you cannot get more time.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Don't be busy, be productive. There's a big difference.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The bad news is time flies. The good news is you're the pilot.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "You will never find time for anything. If you want time, you must make it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The way we spend our time defines who we are.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Focus on being productive instead of busy.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Time management is life management.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The rich don't trade time for money. They trade value for money.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your most valuable asset is not your money, it's your time. How you spend it determines your wealth.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealthy people think in terms of leverage. They ask: How can I get 10x results with the same amount of time?",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The poor sell their time. The middle class sell their skills. The wealthy sell systems.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Don't count the hours. Make the hours count.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The successful person has the habit of doing the things failures don't like to do.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Efficiency is doing things right. Effectiveness is doing the right things.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Amateurs sit and wait for inspiration. The rest of us just get up and go to work.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your network is your net worth.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Surround yourself with people who are smarter than you, who challenge you, and who push you to be better.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your income will be the average of the five people you spend the most time with.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Build relationships before you need them.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The most successful people are those who are good at plan B.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Opportunities don't happen. You create them.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The way to achieve your own success is to be willing to help somebody else get it first.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The currency of real networking is not greed but generosity.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your reputation is more important than your paycheck.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The best relationships are mutual admiration societies.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Success is not what you have, but who you have in your life.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The most valuable gift you can give someone is your time. Because when you give your time, you're giving a portion of your life you'll never get back.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Great things in business are never done by one person. They're done by a team of people.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The strength of the team is each individual member. The strength of each member is the team.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Alone we can do so little; together we can do so much.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Talent wins games, but teamwork and intelligence win championships.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "If everyone is moving forward together, then success takes care of itself.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "None of us is as smart as all of us.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Teamwork makes the dream work.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The only real mistake is the one from which we learn nothing.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "If you're not failing, you're not pushing your limits, and if you're not pushing your limits, you're not maximizing your potential.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The fear of loss is greater than the excitement of gain.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The entrepreneur is essentially a visualizer and actualizer. He can visualize something, and when he visualizes it he sees exactly how to make it happen.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Whatever the mind can conceive and believe, it can achieve.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Don't let your learning lead to knowledge. Let your learning lead to action.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Change is the end result of all true learning.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The beautiful thing about learning is that no one can take it away from you.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The expert in anything was once a beginner.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The only person who is educated is the one who has learned how to learn and change.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The roots of education are bitter, but the fruit is sweet.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Develop a passion for learning. If you do, you will never cease to grow.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The mind is not a vessel to be filled, but a fire to be kindled.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The great aim of education is not knowledge but action.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Education costs money, but then so does ignorance.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The only thing that interferes with my learning is my education.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Learning is a treasure that will follow its owner everywhere.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not built overnight. It's built consistently over time with discipline and patience.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The secret to wealth is simple: Spend less than you earn and invest the difference.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not about how much you make, but how much you keep and how hard it works for you.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The wealthy understand that money is a tool, not the destination.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "True wealth is being able to wake up every morning and say, 'I can do whatever I want today.'",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is created by solving problems at scale.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The middle class buys liabilities thinking they're assets. The wealthy buy assets that generate income.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is the transfer of money from the impatient to the patient.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The fastest way to become wealthy is to slowly build assets over time.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not measured by the cars you drive or the houses you own. It's measured by the number of days you can sustain your lifestyle without working.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The wealthy focus on their net worth. The poor focus on their job title.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is created when you provide value to others without trading your time for money.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The rich don't work for money; they make money work for them through assets.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not about having money. It's about having control over your time.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The wealthy think in terms of generations. The poor think in terms of paychecks.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is built one good decision at a time, compounded over decades.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The secret to building wealth is consistency over intensity.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not an accident. It's the result of deliberate choices made consistently over time.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The wealthy understand that money is simply a scorecard for value created.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "True wealth is having the freedom to focus on what matters most to you.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The greatest legacy one can pass on is not money or material things, but a legacy of character and faith.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "We make a living by what we get, but we make a life by what we give.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your legacy is every life you've touched.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The value of a man resides in what he gives and not in what he is capable of receiving.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "A good character is the best tombstone. Those who loved you will remember.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Carve your name on hearts, not tombstones. A legacy is etched into the minds of others.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "What you leave behind is not what is engraved in stone monuments, but what is woven into the lives of others.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The best way to find yourself is to lose yourself in the service of others.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "No one has ever become poor by giving.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "We rise by lifting others.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Service to others is the rent you pay for your room here on earth.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "A life isn't significant except for its impact on other lives.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The greatest use of life is to spend it for something that will outlast it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Your legacy should be that you made it better than you found it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "To have what we have never had, we must do what we have never done.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The only thing you take with you when you're gone is what you leave behind.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Build something that will last longer than you will.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money often costs too much.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The lack of money is the root of all evil.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "A wise person should have money in their head, but not in their heart.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "It's good to have money and the things that money can buy, but it's good, too, to check up once in a while and make sure that you haven't lost the things that money can't buy.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "He who loses money, loses much; He who loses a friend, loses more; He who loses faith, loses all.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Empty pockets teach you a million things in life but full pockets spoil you in a million ways.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not to feed our egos but to feed the hungry and to help people help themselves.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The real measure of your wealth is how much you'd be worth if you lost all your money.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The money you have gives you freedom; the money you pursue enslaves you.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is the ability to fully experience life.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "If you want to feel rich, just count all the things you have that money can't buy.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The safest way to double your money is to fold it over once and put it in your pocket.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The art is not in making money, but in keeping it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "What we really want to do is what we are really meant to do. When we do what we are meant to do, money comes to us, doors open for us, we feel useful, and the work we do feels like play to us.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "You can only become truly accomplished at something you love. Don't make money your goal. Instead, pursue the things you love doing, and then do them so well that people can't take their eyes off you.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "I would rather have a million friends than a million dollars.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money has never made man happy, nor will it. There is nothing in its nature to produce happiness. The more of it one has, the more one wants.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not his that has it, but his that enjoys it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "It is not the man who has too little, but the man who craves more, that is poor.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money never made a man happy yet, nor will it. There is nothing in its nature to produce happiness.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The real source of wealth and capital in this new era is not material things. It is the human mind, the human spirit, the human imagination, and our faith in the future.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not about having a lot of money. It's about having a lot of options.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The true way to gain much is never to desire to gain too much.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not his that has it, but his that enjoys it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is the ability to fully experience life.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "If you can count your money, you don't have a billion dollars.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money is a terrible master but an excellent servant.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The safest way to double your money is to fold it over and put it in your pocket.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money often costs too much.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not his that has it, but his that enjoys it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The real measure of your wealth is how much you'd be worth if you lost all your money.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The money you have gives you freedom; the money you pursue enslaves you.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is the ability to fully experience life.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "If you want to feel rich, just count all the things you have that money can't buy.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The safest way to double your money is to fold it over once and put it in your pocket.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The art is not in making money, but in keeping it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "What we really want to do is what we are really meant to do. When we do what we are meant to do, money comes to us, doors open for us, we feel useful, and the work we do feels like play to us.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "You can only become truly accomplished at something you love. Don't make money your goal. Instead, pursue the things you love doing, and then do them so well that people can't take their eyes off you.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "I would rather have a million friends than a million dollars.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money has never made man happy, nor will it. There is nothing in its nature to produce happiness. The more of it one has, the more one wants.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not his that has it, but his that enjoys it.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "It is not the man who has too little, but the man who craves more, that is poor.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Money never made a man happy yet, nor will it. There is nothing in its nature to produce happiness.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The real source of wealth and capital in this new era is not material things. It is the human mind, the human spirit, the human imagination, and our faith in the future.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "Wealth is not about having a lot of money. It's about having a lot of options.",
+      "author": "Wealth Director"
+    },
+    {
+      "text": "The true way to gain much is never to desire to gain too much.",
+      "author": "Wealth Director"
     }
   ]
 }
